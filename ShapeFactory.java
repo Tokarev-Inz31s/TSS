@@ -1,5 +1,6 @@
-/*
- * Decompiled with CFR 0_118.
+/**
+ * public ShapeFactory - настройка фигур
+ * private static Shape createStar - настройка размещения
  */
 import java.awt.BasicStroke;
 import java.awt.Color;
