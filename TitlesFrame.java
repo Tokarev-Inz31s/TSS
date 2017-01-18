@@ -1,5 +1,6 @@
-/*
- * Decompiled with CFR 0_118.
+/**
+ * private void initUI - настройка UI
+ * public void run - метод запуска
  */
 import java.awt.Component;
 import javax.swing.JFrame;
